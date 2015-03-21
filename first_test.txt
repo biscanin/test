@@ -1,1 +1,1 @@
-ov je samo test, da testiramo git. sada smo ga nesto promjenili
+ovo je najnovija verzija.
